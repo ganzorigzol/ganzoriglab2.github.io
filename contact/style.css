@@ -1,0 +1,73 @@
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+html{
+	font-size: 5px;
+	font-family: "Lato", Arial, sans-serif;
+}
+ section{
+ 	width: 100%;
+ 	height:  100vh;
+ 	color: #fff;
+ 	background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+ 	background-size: 100% 100%;
+ 	position: relative;
+ }
+ h3{
+ 	font-size: 4rem;
+ 	text-transform: uppercase;;
+ 	letter-spacing: 4px;
+ 	border: 3px solid #fff;
+ 	position: absolute;
+ 	top: 1%;
+ 	left: 15%;
+ 	transform: translate(-90%, 10%);
+ 	padding: 4rem 8rem
+ }
+ p{
+ 	font-size: 4rem;
+ 	text-transform: uppercase;;
+ 	letter-spacing: 2px;
+ 	
+ 	position: absolute;
+ 	top: 35%;
+ 	left: 40%;
+ 	transform: translate(-90%, 10%);
+ 	padding: 4rem 8rem
+ }
+ h4{
+ 	font-size: 4rem;
+ 	text-transform: uppercase;;
+ 	letter-spacing: 4px;
+ 	border: 3px solid #fff;
+ 	position: absolute;
+ 	top: 25%;
+ 	left: 80%;
+ 	transform: translate(-90%, 10%);
+ 	padding: 4rem 8rem
+ }
+ h2{
+ 	font-size: 4rem;
+ 	text-transform: uppercase;;
+ 	letter-spacing: 4px;
+ 	border: 3px solid #fff;
+ 	position: absolute;
+ 	top: 15%;
+ 	left: 50%;
+ 	transform: translate(-90%, 10%);
+ 	padding: 4rem 8rem
+ } h6{
+ 	font-size: 4rem;
+ 	text-transform: uppercase;;
+ 	letter-spacing: 4px;
+ 	
+ 	position: absolute;
+ 	top: 25%;
+ 	left: 50%;
+ 	transform: translate(-90%, 10%);
+ 	padding: 4rem 8rem
+ 
+ 
+ 
